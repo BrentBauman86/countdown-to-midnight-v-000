@@ -8,7 +8,7 @@ end
 end
 
 x = 5
-def countdown_with_sleep(x)
+def countdown_with_sleep(sleep = x)
   while x > 0
   x -= 1
 end
