@@ -19,4 +19,3 @@ def countdown_with_sleep(x)
   if sleep(5)
     true
   end
-  
