@@ -17,4 +17,3 @@ def countdown_with_sleep(x)
   end
   sleep(5)
   true
-  
