@@ -1,4 +1,3 @@
-require "pry"
 
 x = 10
 def countdown(x)
@@ -17,5 +16,5 @@ def countdown_with_sleep(x)
   end
   "HAPPY NEW YEAR!"
   end
-  binding.pry
   sleep(5)
+  
