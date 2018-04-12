@@ -4,6 +4,6 @@ while 0 < x
   puts "#{x} SECOND(S)!"
   x -= 1
 end
+end
 puts "HAPPY NEW YEAR!"
 
-end
